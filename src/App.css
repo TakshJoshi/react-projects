@@ -1,0 +1,186 @@
+.header {
+  background-image: url(../src/assets/HeaderImage.png);
+  background-size: cover;
+  background-position: center;
+  width: 99.37vw;
+  height: 180vh;
+  margin-top: -1%;
+  margin-left: -1%;
+}
+
+.shape{
+  position: absolute;
+  /* height: 80%; */
+  margin-left: 71%;
+  margin-top: 28%;
+}
+.logo img{
+  /* position: absolute; */
+  align-self: center;
+  margin-top: 5%;
+  padding-left: 40%;
+}
+.texture{
+  position: absolute;
+  margin-top: -20%;
+  width: 100vw;
+}
+.nav{
+  display: flex;
+  justify-content: center;
+  word-spacing: 2%;
+  margin-top: 3%;
+}
+.nav h3{
+  font-size: 49px;
+  letter-spacing: 0px;
+  /* line-height: 55px; */
+  color: #30302f;
+  font-weight: 400;
+  font-family: "Yellowtail";
+  padding-right: 2%;
+  margin-top: -0.5%;
+}
+.nav h5{
+  font-size: 15px;
+  letter-spacing: 0px;
+  line-height: 22px;
+  color: #30302f;
+  font-weight: 400;
+  font-family: "Comfortaa";
+  align-items: center;
+padding-left: 2%;}
+.enter{
+  margin-left: 20%;
+  margin-right: -5%;
+}
+
+.enter p{
+  font-size: 11px;
+  letter-spacing: 0px;
+  line-height: 13px;
+  color: #30302f;
+  font-weight: 400;
+  font-family: "Comfortaa";
+  text-align: center;
+}
+.enter button{
+  font-size: 22px;
+letter-spacing: 0px;
+line-height: 17px;
+color: #fefefc;
+font-weight: 400;
+font-family: "Comfortaa";
+width: 151px;
+height: 46px;
+border-radius: 23px;
+background-color: #30302f;
+border: 1px solid #000000;}
+
+.text{
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  width: 30%;
+  margin-left: 5%;
+}
+
+.text p{
+  font-size: 33px;
+  letter-spacing: 0px;
+  line-height: 37px;
+  color: #30302f;
+  font-weight: 500;
+  font-family: "Comfortaa";
+
+}
+.text button{
+  font-size: 30px;
+  letter-spacing: 0px;
+  line-height: 24px;
+  color: #fefefc;
+  font-weight: 400;
+  font-family: "Comfortaa";
+  width: 364px;
+  height: 49px;
+  border-radius: 24px;
+  background-color: #30302f;
+  border: 2px solid #30302f;
+}
+.text h5{
+  width: 364px;
+  height: 69px;
+  font-size: 12px;
+  letter-spacing: 0px;
+  color: #30302f;
+  font-weight: 400;
+  font-family: "Comfortaa";
+}
+.slide2{
+  display: flex;
+}
+.slide2 img{
+  margin-top: 15%;
+  margin-left: 55%;
+  height: 80%;
+  width: 80%;
+}
+.slide2 .text{
+  margin-left: 20%;
+  margin-top: 7%;
+  /* width: 10%; */
+}
+.slide2 .text h3{
+  font-size: 49px;
+  letter-spacing: 0px;
+  line-height: 55px;
+  color: #30302f;
+  font-weight: 400;
+  font-family: "Yellowtail";}
+.slide2 .text h5{
+  font-size: 32px;
+  letter-spacing: 0px;
+  line-height: 38px;
+  color: #30302f;
+  font-weight: 500;
+  font-family: "Comfortaa";
+  margin-top: -6%;
+}
+.slide2 .text p{
+  width: 290px;
+  /* height: 149px; */
+  font-size: 12px;
+  letter-spacing: 0px;
+  line-height: 16px;
+  color: #30302f;
+  font-weight: 400;
+  font-family: "Comfortaa";
+  margin-right: 20%;
+}
+.slide2 .text button{
+  font-size: 24px;
+  letter-spacing: 0px;
+  line-height: 38px;
+  color: #ffffff;
+  font-weight: 500;
+  font-family: "Comfortaa";
+  text-align: center;
+  width: 142px;
+  height: 43px;
+  border-radius: 22px;
+  background-color: #30302f;
+  border: 1px solid #000000;
+  margin-top: 5%;
+  /* margin-left: -5%; */
+}
+.slide2 .text h6{
+  width: 200px;
+  height: 436px;
+  font-size: 12px;
+  letter-spacing: 0px;
+  line-height: 23px;
+  text-decoration: underline;
+  color: #30302f;
+  font-weight: 500;
+  font-family: "Comfortaa";
+}
